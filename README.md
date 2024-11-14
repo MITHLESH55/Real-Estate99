@@ -47,8 +47,3 @@ The main objective of **GHAR AAPNA SA** is to create a comprehensive platform wh
 - **Frontend**: React.js for a fluid and responsive user experience
 - **Security**: SSL encryption for safeguarding personal and financial data
 
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-link>
